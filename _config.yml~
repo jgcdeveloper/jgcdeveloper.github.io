@@ -18,13 +18,13 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: jgcdeveloper@gmail.com
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: jgcdeveloper
+  github: # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
   linkedin:  # Full URL
