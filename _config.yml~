@@ -5,26 +5,26 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Jason Clegg # Your name will go here
+  description: "Born to code... just didn't realize it until I was 34..." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Wannabe Software Developer (nay.. Engineer!!!)</h1>
+     <p>After thirteen years, I am switching back into where my natural talent lies. I am learning to code, and hoping to become a Software Engineer </p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with blood, sweat, and tears.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: jgcdeveloper@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: jgcdeveloper
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -56,7 +56,7 @@ theme_settings:
   google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
 
 # PAGINATION
-paginate: 100
+paginate: 10
 paginate_path: "blog/page:num"
 
 # COLLECTIONS
