@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc Jams - Part A
-thumbnail-path: ""
+thumbnail-path: "/img/BJams_Basic.jpg"
 short-description: Bloc Jams a learning project for Bloc.io. It re-creates the functionality of a basic music player online, using HTML5 music and Buzz Music API.
 
 ---
